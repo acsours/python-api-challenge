@@ -62,3 +62,10 @@ There appears to be a slight correlation between latitude and wind speed. In gen
 * The data denoting latitude vs humidity shows a great number of cities in this sample being at a relatively high humidity, but with more clustering of data in the northern hemisphere. This could be affected by the number of cities in this sample in the northern hemisphere, by the time of year, or there could be less cities populating the southern hemisphere overall, based on loctation of inhabitable land. 
 
 # Part II - VacationPy 
+
+![heatmap.png](output_data/heatmap.png?raw=true "Title") 
+
+
+
+![hotel_map.png](output_data/hotel_map.png?raw=true "Title") 
+This map displays search results for hotels in locations with weather between 68.0-78.0 (F), between 10-25% cloudiness, and less than mph wind speed. Book your vacation soon!
