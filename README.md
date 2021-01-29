@@ -67,5 +67,5 @@ There appears to be a slight correlation between latitude and wind speed. In gen
 
 
 
-![hotel_map.png](output_data/hotel_map.png?raw=true "Title") 
-This map displays search results for hotels in locations with weather between 68.0-78.0 (F), between 10-25% cloudiness, and less than mph wind speed. Book your vacation soon!
+![hotel_map_final.png](output_data/hotel_map_final.png?raw=true "Title") 
+This map displays search results for hotels in locations with weather between 68.0-78.0 (degrees F), between 10-25% cloudiness, and less than 6.00 mph wind speed. Book your vacation soon!
